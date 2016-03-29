@@ -1,0 +1,5 @@
+Added styling to create a clean and easy to navigate web page. 
+
+- Bootstrap tables for listing the user’s order
+- Simple form for adding food items
+- Subtotal button to calculate tax on the order total (also noted the 7.5% tax is included in the subtotal)

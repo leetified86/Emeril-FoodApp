@@ -1,0 +1,23 @@
+html { 
+	overflow-y: scroll; 
+}
+
+body { 
+	padding-top: 50px; 
+}
+
+h1 {
+	border-radius: 15px;
+}
+
+table, th , td {
+  margin-right: auto;
+}
+
+#food-list { 
+	margin-bottom: 30px;
+}
+      
+#food-form { 
+	margin-bottom: 50px; 
+}
