@@ -1,3 +1,3 @@
 #Emeril Food App
 
-![alt tag](https://rawgit.com/leetified86/Emeril-FoodApp.git/Emeril-FoodApp/Emeril's%Grille.png)
+![alt tag](https://cloud.githubusercontent.com/assets/12144977/14127943/cdcd56ec-f5d0-11e5-8f49-50fdd75ebca7.jpg)
